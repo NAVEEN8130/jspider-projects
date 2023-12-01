@@ -53,7 +53,7 @@ function Controlled() {
       return (
             <div>
                   <form action="">
-                        <label htmlFor="">Enter Number 1</label>
+                        <label htmlFor="">Enteer Number 1</label>
                         <input type="text" value={num1} onChange={number1} /><br />
                         <label htmlFor="">Enter Number 2</label>
                         <input type="text" value={num2} onChange={number2} />
