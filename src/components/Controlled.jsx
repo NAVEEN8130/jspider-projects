@@ -55,7 +55,7 @@ function Controlled() {
                   <form action="">
                         <label htmlFor="">Enteer Number 1</label>
                         <input type="text" value={num1} onChange={number1} /><br />
-                        <label htmlFor="">Enter Number 2</label>
+                        <label htmlFor="">Enter Number 2333</label>
                         <input type="text" value={num2} onChange={number2} />
                   </form>
                   <button onClick={plus}>+</button>
